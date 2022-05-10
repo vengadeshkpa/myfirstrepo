@@ -4,7 +4,7 @@ public class Autoboxingeg {
 	
 	public static void main(String[]args) {
 		//prior to jdk.5//
-		int a=9;
+		int a=10;
 		Integer a1=new Integer(a);
 		System.out.println(a);
 		
