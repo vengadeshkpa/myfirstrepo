@@ -18,7 +18,7 @@ public class Autoboxingeg {
 		System.out.println(obj2);
 		System.out.println(obj3);
 		
-		Integer a5=99;
+		Integer a5=999;
 		//prior to 1.5//
 		int v1=a5.intValue();//from object to datatype//
 		System.out.println(v1);
